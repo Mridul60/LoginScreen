@@ -12,7 +12,7 @@ It includes email/password input handling, local state updates, and displays a J
 
 ## 📸 Screenshot
 
-![Login Screen](./screenshot.png)
+![Login Screen](./screenshot.jpg)
 
 ## 📦 Requirements
 
@@ -23,5 +23,5 @@ It includes email/password input handling, local state updates, and displays a J
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/react-native-login-app.git
-   cd react-native-login-app
+   git clone https://github.com/Mridul60/LoginScreen.git
+   cd LoginScreen
